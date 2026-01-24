@@ -1,5 +1,9 @@
 # 📄 CV en Ligne & Portfolio Interactif
 
+🔗 **Site en ligne :** [Accéder au site web](https://alicam.alwaysdata.net/siteWebCV/)
+
+---
+
 Ce projet est un **Curriculum Vitae numérique** développé entièrement sur mesure ("from scratch"), sans l'utilisation de CMS ou de frameworks lourds.
 
 Il a pour objectif de présenter mon parcours, mes compétences et mes réalisations à travers une interface moderne et fluide, tout en démontrant mes compétences techniques en développement web Full-Stack (Front & Back).
