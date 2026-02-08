@@ -286,6 +286,20 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <a href="https://alicam.alwaysdata.net/Mamba/" target="_blank" class="btn-projet">Voir le site →</a>
                 </div>
 
+                <div class="projet-card fade-in">
+                    <div class="projet-header">
+                        <h3>Visualisation : Baguette des Franciliens</h3>
+                        <span class="projet-tag">Projet Académique (SAE)</span>
+                    </div>
+                    <p class="projet-tech">Technologies : JavaScript, Leaflet, Chart.js, HTML/CSS</p>
+                    <p class="projet-desc">
+                        Application de data-visualisation interactive pour localiser les boulangeries artisanales en Île-de-France. 
+                        Intègre une carte dynamique (clustering), un tableau de bord statistique et un moteur de recherche avec autocomplétion.
+                    </p>
+                    <a href="https://alicam.alwaysdata.net/sae303/" target="_blank" class="btn-projet">Voir le site →</a>
+                </div>
+
+
             </div>
         </div>
     </section>
