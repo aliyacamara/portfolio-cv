@@ -112,7 +112,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <!-- BANNIERE CANVA : place ton image banner en assets/img/banniereHeroBleu.png -->
     <div class="hero-banner" role="img" aria-label="Bannière Aliya Camara"></div>
 
-    <a href="assets/CV_ALIYA.pdf" download class="btn btn-download">
+    <a href="assets/CV_ALIYACAMARA.pdf" download class="btn btn-download">
       Télécharger mon CV ↓
     </a>
   </div>
