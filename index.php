@@ -112,7 +112,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <!-- BANNIERE CANVA : place ton image banner en assets/img/banniereHeroBleu.png -->
     <div class="hero-banner" role="img" aria-label="Bannière Aliya Camara"></div>
 
-    <a href="assets/CV.pdf" download class="btn btn-download">
+    <a href="assets/CV_ALIYA.pdf" download class="btn btn-download">
       Télécharger mon CV ↓
     </a>
   </div>
@@ -276,7 +276,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <div class="projet-card fade-in">
                     <div class="projet-header">
                         <h3>Refonte "Mamba"</h3>
-                        <span class="projet-tag">Projet Académique</span>
+                        <span class="projet-tag">EXERCICE ACADÉMIQUE</span>
                     </div>
                     <p class="projet-tech">Technologies : PHP (Statique vers Dynamique)</p>
                     <p class="projet-desc">
@@ -289,7 +289,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <div class="projet-card fade-in">
                     <div class="projet-header">
                         <h3>Visualisation : Baguette des Franciliens</h3>
-                        <span class="projet-tag">Projet Académique (SAE)</span>
+                        <span class="projet-tag">SAE 3.03</span>
                     </div>
                     <p class="projet-tech">Technologies : JavaScript, Leaflet, Chart.js, HTML/CSS</p>
                     <p class="projet-desc">
