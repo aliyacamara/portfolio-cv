@@ -153,8 +153,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <li>Programmation et intégration/développement web.</li>
                         <li>Graphisme et UX/UI design.</li>
                         <li>Marketing.</li>
-                        <li>Stratégie et communication numérique..</li>
-                        <li>Audiovisuel, motion et sound design..</li>
+                        <li>Stratégie et communication numérique.</li>
+                        <li>Audiovisuel, motion et sound design.</li>
                         <li>Gestion de projet numérique.</li>
                     </ul>
                 </div>
@@ -299,6 +299,40 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <a href="https://alicam.alwaysdata.net/sae303/" target="_blank" class="btn-projet">Voir le site →</a>
                 </div>
 
+                <div class="projet-card fade-in">
+                    <div class="projet-header">
+                        <h3>Webdocumentaire & Stratégie Plurimédia</h3>
+                        <span class="projet-tag">SAE 3.02</span>
+                    </div>
+                    <p class="projet-tech">Technologies : DaVinci Resolve, HTML/CSS/PHP, SEO, WordPress</p>
+                    <p class="projet-desc">
+                        Gestion complète d'un projet de webdocumentaire, de la conception à la mise en ligne. Écriture du scénario, tournage et montage vidéo. Création du site web associé avec un fort accent sur l'optimisation du référencement naturel (SEO) et le maillage (LinkedIn, Podcasts).
+                    </p>
+                    <a href="https://alicam.alwaysdata.net/DevDoc/" target="_blank" class="btn-projet">Voir le webdoc →</a>
+                </div>
+
+                <div class="projet-card fade-in">
+                    <div class="projet-header">
+                        <h3>Communication - Festival des Talents</h3>
+                        <span class="projet-tag">SAE 2.02</span>
+                    </div>
+                    <p class="projet-tech">Outils : Suite Adobe, Planification éditoriale, Réseaux Sociaux</p>
+                    <p class="projet-desc">
+                        Élaboration et déploiement de la stratégie de communication digitale pour le Festival des Talents de l'IUT. Création de l'identité visuelle, rédaction du calendrier éditorial, production de contenus visuels et vidéos, et animation des communautés (Instagram, TikTok).
+                    </p>
+                </div>
+
+                <div class="projet-card fade-in">
+                    <div class="projet-header">
+                        <h3>Community Management - Indépendante</h3>
+                        <span class="projet-tag">PROJET PERSONNEL</span>
+                    </div>
+                    <p class="projet-tech">Outils : Stratégie digitale, Création de visuels, Copywriting</p>
+                    <p class="projet-desc">
+                        Accompagnement d'une conseillère d'orientation indépendante dans le développement de sa présence en ligne. Création d'une identité visuelle professionnelle, conception de visuels engageants et animation de ses réseaux sociaux pour renforcer son image de marque.
+                    </p>
+                    <a href="https://www.instagram.com/aufildesmotsbyisabelle/" target="_blank" class="btn-projet">Voir l'Instagram →</a>
+                </div>
 
             </div>
         </div>
@@ -333,14 +367,44 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
 
             <div class="skill-item fade-in">
+                <img src="assets/icones/iconeReact.png" alt="React">
+                <p>React</p>
+            </div>
+
+            <div class="skill-item fade-in">
                 <img src="assets/icones/iconeSQL.png" alt="SQL">
                 <p>MySQL</p>
+            </div>
+
+            <div class="skill-item fade-in">
+                <img src="assets/icones/iconeGit.png" alt="Git">
+                <p>Git</p>
             </div>
 
             <div class="skill-item fade-in">
                 <img src="assets/icones/iconeWordpress.png" alt="WordPress">
                 <p>WordPress</p>
             </div>
+
+            <div class="skill-item fade-in">
+                <img src="assets/icones/iconeFigma.png" alt="Figma">
+                <p>Figma</p>
+            </div>  
+
+            <div class="skill-item fade-in">
+                <img src="assets/icones/iconeCanva.png" alt="Canva">
+                <p>Canva</p>
+            </div>  
+
+            <div class="skill-item fade-in">
+                <img src="assets/icones/iconeCapcut.png" alt="Capcut">
+                <p>Capcut</p>
+            </div>  
+
+            <div class="skill-item fade-in">
+                <img src="assets/icones/iconeDavin.png" alt="Davinci Resolve">
+                <p>Davinci Resolve</p>
+            </div>  
 
             <div class="skill-item fade-in">
                 <img src="assets/icones/iconePS.png" alt="Photoshop">
@@ -360,17 +424,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="skill-item fade-in">
                 <img src="assets/icones/iconeIndesign.png" alt="InDesign">
                 <p>InDesign</p>
-            </div>
+            </div>  
 
-            <div class="skill-item fade-in">
-                <img src="assets/icones/iconeFigma.png" alt="Figma">
-                <p>Figma</p>
-            </div>    
-
-            <div class="skill-item fade-in">
-                <img src="assets/icones/iconeGit.png" alt="Git">
-                <p>Git</p>
-            </div>
         </div>
     </div>
 </section>
