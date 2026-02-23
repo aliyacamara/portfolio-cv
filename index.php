@@ -402,7 +402,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>  
 
             <div class="skill-item fade-in">
-                <img src="assets/icones/iconeDavin.png" alt="Davinci Resolve">
+                <img src="assets/icones/iconeDavinci.png" alt="Davinci Resolve">
                 <p>Davinci Resolve</p>
             </div>  
 
